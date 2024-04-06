@@ -40,5 +40,5 @@ Here are some of the technologies I work with:
 
 ## 👀 Profile Visits
 
-![Tracker](https://github-readme-tracker-91d8k0ibk-murad-huseynovs-projects.vercel.app/)
+![Tracker](https://github-readme-tracker-b3xtju6gz-murad-huseynovs-projects.vercel.app/)
 
