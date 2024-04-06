@@ -29,6 +29,7 @@ Here are some of the technologies I work with:
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="60" height="60"></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width="60" height="60"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="60" height="60"></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="50" height="50"></a>
 
 ## 📊 GitHub Statistics
 
