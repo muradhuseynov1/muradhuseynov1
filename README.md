@@ -37,3 +37,8 @@ Here are some of the technologies I work with:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muradhuseynov1&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradhuseynov1&layout=compact&theme=radical)
+
+## 👀 Profile Visits
+
+![Tracker](https://github-readme-tracker-fk6qyrfg7-murad-huseynovs-projects.vercel.app/api/track)
+
