@@ -38,7 +38,3 @@ Here are some of the technologies I work with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradhuseynov1&layout=compact&theme=radical)
 
-## 👀 Profile Visits
-
-![Tracker](https://github-readme-tracker-b3xtju6gz-murad-huseynovs-projects.vercel.app/)
-
