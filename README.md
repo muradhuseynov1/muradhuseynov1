@@ -1,6 +1,6 @@
 # Hi 👋! I am Murad
 
-I'm a Computer Science student and aspiring software engineer with a passion for technology and innovative solutions. Here's a quick overview of my background:
+I'm a Computer Science student and aspiring developer with a passion for technology and innovative solutions. Here's a quick overview of my background:
 
 - 🎓 **Education:** Pursuing a BSc in Computer Science at Eötvös Loránd University (ELTE), Final Semester (Sep 2020 - Jul 2024).
 - 💼 **Work Experience:** Technical Communication Trainee at Nokia (Apr 2022 - Nov 2023), where I honed my technical writing, coding and communication skills.
