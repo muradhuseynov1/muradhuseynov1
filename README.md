@@ -1,4 +1,4 @@
-# Hi there, I'm Murad Huseynov 👋
+# Hi there, I'm Murad Hüseynov 👋
 
 I'm an AI & Data Science specialist and software developer based in Rome, Italy. I am currently pursuing an MSc in Computer Science at Sapienza University of Rome, building upon my previous experience as a Software Developer at Nokia Networks & Solutions. I'm passionate about machine learning, computer vision, and building robust, automated systems.
 
