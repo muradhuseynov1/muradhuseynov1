@@ -1,40 +1,25 @@
-# Hi 👋! I am Murad
+# [cite_start]Hi there, I'm Murad Huseynov 👋 [cite: 1]
 
-I'm a Computer Science student and aspiring developer with a passion for technology and innovative solutions. Here's a quick overview of my background:
+[cite_start]I'm an AI & Data Science specialist and software developer based in Rome, Italy[cite: 5, 12]. [cite_start]I am currently pursuing an MSc in Computer Science at Sapienza University of Rome [cite: 10, 11][cite_start], building upon my previous experience as a Software Developer at Nokia Networks & Solutions[cite: 22, 23]. I'm passionate about machine learning, computer vision, and building robust, automated systems.
 
-- 🎓 **Education:** Studying MSc Computer Science at Sapienza Univerity of Rome, Graduated BSc in Computer Science at Eötvös Loránd University (ELTE) (Sep 2020 - Jul 2024).
-- 💼 **Work Experience:** Technical Communication Trainee at Nokia (Apr 2022 - Nov 2023), where I honed my technical writing, coding and communication skills.
+## 🔭 About Me
+* [cite_start]🎓 **Education**: MSc in Computer Science (AI & Data Science) at Sapienza University of Rome[cite: 10, 11, 12]. [cite_start]BSc in Computer Science from Eötvös Loránd University[cite: 15, 16].
+* [cite_start]💼 **Experience**: Previously engineered CI/CD pipelines and validated 5G network functions using Python at Nokia[cite: 23, 25, 27].
+* [cite_start]🌍 **Location**: Rome, Italy[cite: 5].
 
-Feel free to explore my repositories and reach out if you're interested in collaborating on a project!
+## 🚀 Featured Projects
+* [cite_start]**SOFA (Step-on-Foot Analyzer)**: Developed an automated deep learning ensemble (YOLOv11, Depth-Anything V2, SAM2) for detecting football fouls via mask overlap analysis[cite: 34, 35].
+* [cite_start]**Surgical Detoxification (LLMs)**: Built a mechanistic-interpretability pipeline to detoxify a jailbroken Llama 3.2 1B Instruct model by identifying and ablating specific attention-head circuits[cite: 29, 30].
+* [cite_start]**CryptoPredict**: Created an AI-driven web app (React/Flask) using live Binance data, FinBERT sentiment analysis, and an LSTM model for forecasting crypto prices[cite: 31, 33].
+* [cite_start]**Music Source Separation**: Engineered an unsupervised pipeline using a SEANet EnCodec autoencoder to isolate and reconstruct specific instrument tracks from mixed audio[cite: 36, 37].
 
-## How to reach me
+## 💻 Tech Stack
+* [cite_start]**Languages**: Python, Java, C++, JavaScript/TypeScript, C#, C, PHP [cite: 39]
+* [cite_start]**AI & Machine Learning**: PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face [cite: 40]
+* [cite_start]**Data Management**: SQL, Pandas, NumPy, Matplotlib, Seaborn [cite: 41]
+* [cite_start]**Tools & Platforms**: Git, Docker, Jenkins, Linux, Jira, Agile, CI/CD, Firebase [cite: 42]
 
-- 📫 Email me at: [huseynovmurad2002@gmail.com](mailto:huseynovmurad2002@gmail.com).
-
-## Connect with me
-
-<a href="https://www.linkedin.com/in/huseynovmurad/" target="_blank"><img src="https://github.com/HaeckDesign/Get-Social-Social-Media-Font/blob/master/images/SVG/linkedin.svg" width="40" height="40"></a>
-
-
-## Skills and Tools
-
-Here are some of the technologies I work with:
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="60" height="60"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="60" height="60"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="60" height="60"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" width="60" height="60"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width="60" height="60"></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" width="60" height="60"></a>
-<a href="https://about.gitlab.com/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="60" height="60"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width="60" height="60"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="60" height="60"></a>
-
-## 📊 GitHub Statistics
-
-![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muradhuseynov1&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muradhuseynov1&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradhuseynov1&layout=compact&theme=radical)
-
+## 📫 Connect with me
+* [cite_start]**Website**: [muradhuseynov.dev](https://muradhuseynov.dev) [cite: 7]
+* [cite_start]**LinkedIn**: [in/huseynovmurad](https://linkedin.com/in/huseynovmurad) [cite: 6]
+* [cite_start]**Email**: [huseynovmurad2002@gmail.com](mailto:huseynovmurad2002@gmail.com) [cite: 2]
